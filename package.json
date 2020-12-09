@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "Personal practice and reference for anyone for node.js (javascript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibatica/nodejs-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hibatica/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/hibatica/nodejs-practice#readme"
+}
