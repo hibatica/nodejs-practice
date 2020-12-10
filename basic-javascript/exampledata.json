@@ -1,0 +1,23 @@
+{
+  "people": {
+    "bill": {
+      "name":"bill",
+      "age": 20,
+      "married": false,
+      "married-to": "",
+      "children": [
+        
+      ],
+      "pets": [
+        {
+          "name": "buster",
+          "species": "dog"
+        },
+        {
+          "name": "fluffy",
+          "species": "cat"
+        }
+      ]
+    }
+  }
+}
